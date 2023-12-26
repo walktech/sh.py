@@ -11,7 +11,7 @@ This python script makes python scripts into linux batch files known as shell sc
 Right click and click `Open in Terminal` and put this command in.
 
 ```
-convert-script -e .sh PythonScriptName.py
+python start-http.py -e .sh PythonScriptName.py
 ```
 
 ## What about Windows?
